@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private writer data
+user_data/
+*.docx
+*.doc
+*.db
+.env
